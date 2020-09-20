@@ -1,0 +1,10 @@
+
+[submodule "lib/chez-gl"]
+	path = lib/chez-gl
+	url = https://github.com/steven741/chez-gl
+[submodule "lib/chez-sdl"]
+	path = lib/chez-sdl
+	url = https://github.com/steven741/chez-sdl
+[submodule "lib/prelude"]
+	path = lib/prelude
+	url = https://github.com/corrodedlabs/prelude
